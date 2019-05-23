@@ -1,0 +1,85 @@
+.page-template-tmpl-contact{
+  p {
+    font-weight: $light-font;
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+  }
+  .container_custom {
+    a {
+      color: $primary-color;
+    }
+  }
+}
+
+.section-general {
+  p {
+    &:last-of-type {
+      margin-bottom: 1rem;
+    }
+  }
+  
+}
+
+// .location ul li, .transit ul li, .driving ul li, , .history ul li, .services ul li, .projects ul li, .people ul li, .arts ul li, .communication ul li
+.section-parking ul li,
+.section-access ul li,
+.section-driving ul li {
+  display: list-item;
+  margin-left: 1em;
+  &:before {
+    content: "\25AA";
+    padding-right: 0.7em;
+    margin-left: -1em;
+  }
+}
+
+.section-location ul li,
+.section-parking ul li,
+.section-access ul li {
+  font-weight: $light-font;
+}
+
+.section-transit ul li,
+.section-driving ul li {
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+}
+
+.section-address {
+  .bold-text {
+    margin-right: 0.1em;
+  }
+}
+
+.section-transit {
+  a {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  // .transit-icon {
+  //   color: white;
+  //   font-weight: $bold-font;
+  //   &.subway-icon {
+  //     border-radius: 50%;
+  //     display: inline;
+  //     padding: 0 0.3em;
+  //     font-size: 0.8em;
+  //   }
+  //   &.bus-icon {
+  //     font-size: 0.85em;
+  //     padding: 0 0.25em;
+  //   }
+  // }
+  img {
+    width: 5%;
+  }
+}
+
+.section-access {
+  img {
+    width: 5%;
+    margin-left: 0.1em;
+    vertical-align: bottom;
+  }
+}

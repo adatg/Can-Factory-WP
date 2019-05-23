@@ -1,0 +1,23 @@
+.program-wrapper {
+    p {
+        font-weight: $light-font;
+        margin-top: 0.1em;
+        margin-bottom: 0.1em;
+        a {
+            color: $primary-color;
+        }
+    }
+}
+
+#programs {
+    h3 {
+        color: $secondary-color;
+        margin-left: -1.4em;
+        margin-top: 1em;
+        &:before {
+            content: '\25AA';
+            color: $primary-color;
+            padding-right: 1.1em;
+        }
+    }
+}

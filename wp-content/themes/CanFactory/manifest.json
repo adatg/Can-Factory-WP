@@ -1,0 +1,10 @@
+{
+  "short_name": "The OA Can Factory",
+  "name": "The Old American Can Factory",
+  "icons": [{}
+  ],
+  "start_url": "/thecanfactory/?source=pwa",
+  "background_color": "#fff",
+  "display": "browser",
+  "scope": "/thecanfactory/"
+}

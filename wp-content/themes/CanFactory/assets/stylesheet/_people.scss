@@ -1,0 +1,131 @@
+#people {
+  .header {
+    &.sticky {
+      padding-left: 2.3em;
+    }
+  }
+  .container_custom {
+    width: 45em;
+  }
+}
+
+// TABLE DESIGN
+.table-bordered,
+.table-bordered td,
+.table-bordered th,
+.table thead th {
+  border: 0;
+}
+
+.table-hover tbody tr:hover {
+  background-color: initial;
+}
+
+.th-inner,
+td {
+  font-family: $primary-font;
+  font-size: 1em;
+  color: $secondary-color;
+  letter-spacing: -.3px;
+  line-height: 1.5;
+}
+
+.bootstrap-table .fixed-table-container .table {
+  th,
+  td {
+    font-weight: $light-font;
+    padding-left: 0;
+    padding-top: .15em;
+    padding-bottom: .15em;
+  }
+}
+
+.bootstrap-table .fixed-table-toolbar .search {
+  &.float-right {
+    float: left !important;
+    width: 30%;
+    .form-control {
+      font-weight: $light-font;
+      &:focus {
+        border-color: $primary-color;
+        box-shadow: 0 0 0 .2rem rgba(255, 130, 61, 0.55);
+      }
+    }
+  }
+}
+.bootstrap-table .fixed-table-container .table thead th {
+  .th-inner {
+    font-weight: $medium-font;
+    padding-left: 0;
+    color: $primary-color;
+    text-transform: uppercase;
+  }
+  .both,
+  .asc,
+  .desc {
+    background-image: none;
+  }
+  .both {
+    display: flex;
+    &:before,
+    &:after {
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+      color: $light-color;
+      position: absolute;
+      margin-left: -1em;
+    }
+    &:before {
+      content: "\f0d8";
+      margin-top: -5px;
+    }
+    &:after {
+      content: "\f0d7";
+      margin-top: 3px;
+    }
+    &.asc {
+      &:after {
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        content: "\f0d8";
+        color: $primary-color;
+        position: absolute;
+        margin-top: -5px;
+        margin-left: -1em;
+      }
+    }
+    &.desc {
+      &:after {
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        content: "\f0d7";
+        color: $primary-color;
+        position: absolute;
+        margin-top: 3px;
+        margin-left: -1em;
+      }
+    }
+  }
+}
+
+// NO TABLE SORTING VERSION. JUST SIMPLE GRID
+
+// #people {
+//   .container_custom {
+//     .people-wrapper {
+//       display: grid;
+//       grid-template-columns: 30% 35% 40%;
+//       ul {
+//         margin-top: 0.1em;
+//         li {
+//           font-weight: $light-font;
+//         }
+//       }
+//       .names {
+//         li {
+//           font-weight: $bold-font;
+//         }
+//       }
+//     }
+//   }
+// }
