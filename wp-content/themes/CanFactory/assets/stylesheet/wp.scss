@@ -1,0 +1,48 @@
+@import "variables";
+
+.page-template-tmpl-hp {
+  .header {
+    &.sticky {
+      position: initial;
+    }
+  }
+  .container_custom {
+    &.padding {
+      padding-top: initial;
+    }
+  }
+}
+.page-template-tmpl-contact{
+  p {
+    font-weight: $light-font;
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+  }
+  .container_custom {
+    a {
+      color: $primary-color;
+    }
+  }
+  li {
+    a {
+      img {
+        width: 3%;
+        margin-right: 2px;
+      }
+      &:last-of-type {
+        img {
+          margin-right: 0;
+        }
+      }
+    }
+    
+    &:last-of-type {
+      a {
+        img {
+          width: 5%;
+          margin-right: 0;
+        }
+      }
+    }
+  }
+}

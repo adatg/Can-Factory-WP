@@ -1,10 +1,12 @@
 $(document).ready(function(){
   // STICKY MENU TRIGGER
   $("#waypoint-trigger").waypoint(function(direction){
-    $('.header').toggleClass('sticky');
-    $('.container_custom').toggleClass('padding');
-    $('.menu-wrapper').toggleClass('aligned');
-  },{offset: '25%'}
+    if ($(document.body).attr("class") == "sticky_header") {
+      $('.header').toggleClass('sticky');
+      $('.container_custom').toggleClass('padding');
+      $('.menu-wrapper').toggleClass('aligned');
+    };
+  },{offset: '100px'}
   );
   
   // SCROLL TO 
@@ -21,3 +23,4 @@ $(document).ready(function(){
   });
 
 });
+

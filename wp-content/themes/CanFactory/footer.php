@@ -1,4 +1,8 @@
-<!--footer-->
+  </div>
+	<!-- END WRAPPER -->
+</div>
+<!-- END CONTAINER -->
+<!--FOOTER-->
 <div class="footer">
     <div class="info-wrapper">
       <p class="mt1">&#169;

@@ -14,9 +14,7 @@ get_header(); ?>
     <div class="wrapper">
       <div class="text-body">
         <?php the_field('main_text'); ?>
-      </div>
-    </div>   
-  </div> 
+      </div> 
   <?php endwhile; endif; ?>
 
   <?php get_footer(); ?>

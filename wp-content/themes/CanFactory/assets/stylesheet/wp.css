@@ -1,0 +1,21 @@
+.page-template-tmpl-hp .header.sticky {
+  position: initial; }
+.page-template-tmpl-hp .container_custom.padding {
+  padding-top: initial; }
+
+.page-template-tmpl-contact p {
+  font-weight: 300;
+  margin-bottom: 0.1em;
+  margin-top: 0.1em; }
+.page-template-tmpl-contact .container_custom a {
+  color: #ff7a33; }
+.page-template-tmpl-contact li a img {
+  width: 3%;
+  margin-right: 2px; }
+.page-template-tmpl-contact li a:last-of-type img {
+  margin-right: 0; }
+.page-template-tmpl-contact li:last-of-type a img {
+  width: 5%;
+  margin-right: 0; }
+
+/*# sourceMappingURL=wp.css.map */

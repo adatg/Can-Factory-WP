@@ -55,7 +55,7 @@ h3 {
 
 h2 {
   margin-bottom: 0.5em;
-  margin-top: 1em;
+  margin-top: 1.5em;
 }
 
 h3 {
@@ -113,13 +113,17 @@ ul {
 }
 
 .ml1 {
-    margin-left: 1em;
+  margin-left: 1em;
 }
 
 .top {
   a {
     color: $primary-color;
   }
+}
+
+.empty {
+  opacity: 0;
 }
 
 // Main style
@@ -131,7 +135,7 @@ ul {
 
 .container_custom {
   &.padding {
-    padding-top: 16em;
+    padding-top: 320px;
   }
 }
 
@@ -154,12 +158,15 @@ ul {
     padding-top: 1.71em;
     padding-left: 2.1em;
     img {
-        width: 80%;
+      width: 80%;
     }
     .menu-wrapper {
-        &.aligned {
-            margin-left: 0;
-        }
+      &.aligned {
+        margin-left: 0;
+      }
+      .directory {
+        margin-bottom: 0.25em;
+      }
     }
   }
   .logo-wrapper {
@@ -189,43 +196,30 @@ ul {
           font-size: 1em;
           color: #a6a6a6;
           display: inline;
-          &.current_page_item {
-            a {
-              color: $primary-color;
-            }
-          }
-          &:after {
-            content: ':';
-            margin-left: 3px;
-          }
-          &:last-child:after {
-            content: '';
-          }
         }
       }
     }
-  }
-}
-
-.directory {
-  text-transform: uppercase;
-  margin-bottom: 0.5em;
-  margin-top: 0.5em;
-  li {
-    display: inline;
-    margin-right: 10px;
-    font-size: 0.95em;
-    &:after {
-      content: "\3E";
-      margin-left: 3px;
-    }
-    a {
-      color: $primary-color;
-      font-size: 0.95em;
-      font-weight: $medium-font;
-      cursor: pointer;
-      &:hover {
-          text-decoration: underline;
+    .directory {
+      text-transform: uppercase;
+      margin-bottom: 0.5em;
+      margin-top: 0.5em;
+      li {
+        display: inline;
+        margin-right: 10px;
+        font-size: 0.95em;
+        &:after {
+          content: "\3E";
+          margin-left: 3px;
+        }
+        a {
+          color: $primary-color;
+          font-size: 0.95em;
+          font-weight: $medium-font;
+          cursor: pointer;
+          &:hover {
+            text-decoration: underline;
+          }
+        }
       }
     }
   }
@@ -263,31 +257,56 @@ ul {
 
 // Queries
 @media all and (max-width: 900px) {
-  #people {
-    .container_custom,
-    .info-wrapper {
-      width: 100%;
-      padding-left: 0;
-    }
-    .container_custom {
-      .people-wrapper {
-        grid-template-columns: 30% 30% 40%;
-        display: grid;
-      }
-    }
-    .header {
-      .logo-wrapper {
-        margin-left: 0;
-      }
-      .menu {
-        margin-left: 0;
+  // GRID QUERIES commented out
+  // #people {
+  //   .container_custom,
+  //   .info-wrapper {
+  //     width: 100%;
+  //     padding-left: 0;
+  //   }
+  //   .header {
+  //     .logo-wrapper {
+  //       margin-left: 0;
+  //     }
+  //     .menu {
+  //       margin-left: 0;
 
-        a {
-          &:first-child {
-            margin-left: 0;
-          }
-        }
-      }
+  //       a {
+  //         &:first-child {
+  //           margin-left: 0;
+  //         }
+  //       }
+  //     }
+  //   }
+  // }
+  .container_custom {
+    .people-wrapper.grid {
+      grid-template-columns: 30% 30% 40%;
+      display: grid;
+    }
+  }
+}
+
+@media all and (min-width: 2000px) {
+  #people {
+    .container_custom {
+      max-width: 45%;
+    }
+  }
+}
+
+@media all and (min-width: 1400px) {
+  #people {
+    .container_custom {
+      width: calc(100vw - 40%);
+    }
+  }
+}
+
+@media all and (max-width: 1000px) {
+  #people {
+    .container_custom {
+      width: calc(100vw - 20%);
     }
   }
 }
@@ -299,9 +318,16 @@ ul {
   }
 
   .container_custom,
-  .info-wrapper {
-    width: 100%;
-    padding-left: 0;
+  .footer,
+  .info-wrapper,
+  .header .menu-wrapper {
+    width: 100% !important;
+    margin-left: 0;
+  }
+
+  .container_custom,
+  .footer {
+    padding-left: 2.3em;
   }
 
   .info-wrapper .info-address {
@@ -323,7 +349,7 @@ ul {
       }
     }
   }
-  #people {
+  .people-wrapper.grid {
     p,
     li {
       font-size: 80%;
@@ -342,8 +368,15 @@ ul {
   }
 
   .container_custom,
-  .info-wrapper {
-    padding-left: 0;
+  .footer,
+  .info-wrapper,
+  .header .menu-wrapper {
+    margin-left: 0;
+  }
+
+  .container_custom,
+  .footer {
+    padding-left: 2.3em;
   }
 
   .header {
@@ -359,7 +392,7 @@ ul {
     padding-left: 0;
   }
 
-  #people {
+  .people-wrapper.grid {
     p,
     li {
       font-size: 74%;
@@ -371,11 +404,9 @@ ul {
   .info-wrapper p span {
     margin-left: 0;
   }
-  #people {
-    .container_custom {
-      .people-wrapper {
-        grid-template-columns: 25% 28% 40%;
-      }
+  .container_custom {
+    .people-wrapper.grid {
+      grid-template-columns: 25% 28% 40%;
     }
   }
 }

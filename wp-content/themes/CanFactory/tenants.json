@@ -1,0 +1,979 @@
+[
+   {
+      "form": 0,
+      "name": "",
+      "type": "textarea",
+      "id": "txt1",
+      "elementPos": 0,
+      "namePos": 0,
+      "value": "PERSON,ORGANIZATION,DISCIPLINE,WEBSITE,appear\nAaron Petrovich,Akashic Books,Publishing,akashicbooks.com,akashicbooks.com\nAdam Good,Kurlat-Good Studio,Music,adamgood.com,adamgood.com\nAdelfa Sanchez,Maptote,Design + Silkscreening,maptote.com,maptote.com\nAlice Wertheimer,Akashic Books,Publishing,akashicbooks.com,akashicbooks.com\nAlison Gore,Restless Books,Publishing,restlessbooks.com,restlessbooks.com\nAlissa Shipp,Shipp Studio,Writer,,\nAllegra Earle,Market Road Films,Documentary Film,marketroadfilms.com,marketroadfilms.com\nAllie St. Angelo,Soapwalla,Organic Body Products,soapwallakitchen.com,soapwallakitchen.com\nAmanda Barrafato ,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\nAmy Lemaire,Amy Lemaire Studio,Art & Jewelry,amylemaire.com,amylemaire.com\nAnalia Segal,Segal Studio,Video + Installation,analiasegal.com,analiasegal.com\nAndrea Lilienthal,Lilienthal Studio,Installation Art,andrealilienthal.com,andrealilienthal.com\nAndrea Yoas,McMahon-Baek,Architecture + Industrial Design,mcmahon-baek.com,mcmahon-baek.com\nAndrew Kontaxis,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nAndrew Mockler,Jungle Press,Printmaking + Publishing,junglepress.com,junglepress.com\nAndy Sahlstrom,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nAnjum Rokadia,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nAnna Moschovakis,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nAnna-Lisa D'onofrio,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nAriel Agai,Human Grid ,Music Energy,pedalpowernyc.org,pedalpowernyc.org\nArielle Kane,Restless Books,Publishing,restlessbooks.com,restlessbooks.com\nAska Mukuti,Center for Urban Pedagogy,Urban Policy Education,welcometocup.org,welcometocup.org\nAskriti Gupta,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nBarbara Cahn,Cahn Studio,Ceramics,barbaracahn.com,barbaracahn.com\nBarbara Gooding,Driscoll Studio,Painting,ellendriscoll.net,ellendriscoll.net\nBarbara Reyes,Frederick Tang Architecture,Architecture,fredericktang.com,fredericktang.com\nBen Hertz-Shargel,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nBen Stanton,Wingspace,Theater Design,wingspace.com,wingspace.com\nBenjamin Bunker,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nBeth Katleman,Katleman Studio,Sculpture + Installation,bethkatleman.com,bethkatleman.com\nBeth Shipley ,Kramer-Shipley Studio,Mixed Media,beth-shipley.com,beth-shipley.com\nBianca Abreu,Sakano Glass,Glass Art,aur-jewelry.comabout,aur-jewelry.comabout\nBill Byers,Byers-Ruse Studio,Sculpture,billbyers.com,billbyers.com\nBiraaj Dodiya,Gallace Studio,Painting,303gallery.comartistsmaureen-gallace,303gallery.comartistsmaureen-gallace\nBradford Reed,Ft. Lb. Recording,Sound Recording,pencilina.com,pencilina.com\nBrady Klein,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nBrian Betancourt,Film First,Documentary Film,filmfirst.com,filmfirst.com\nBrian Im,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nBrian Joergens,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nBruno Jakob,McCarty Studio,Drawing + Painting,samyabraham.comBruno-Jakob,samyabraham.comBruno-Jakob\nByron Kim,Kim Studio,Painting,jamescohan.comartistsbyron-kim,jamescohan.comartistsbyron-kim\nCaitlin Martusewicz,Cycle Architecture & Planning,Architecture + Planning,cycle-a.com,cycle-a.com\nCarl Deal,Elsewhere Films,Documentary Film,elsewherefilms.org,elsewherefilms.org\nCarlos Cano,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nCarolina Moscoso,Workstead,Industrial Design + Architecture,workstead.com,workstead.com\nCaroline Buck,Cycle Architecture & Planning,Architecture + Planning,cycle-a.com,cycle-a.com\nCaroline Larsen,Haggarty-Larsen Studio,Painting,carolinelarsen.com,carolinelarsen.com\nCatherine Haggarty,Haggarty-Larsen Studio,Painting,catherinehaggarty.com,catherinehaggarty.com\nCheng Chen,Frederick Tang Architecture,Architecture,fredericktang.com,fredericktang.com\nChloe Swantner,Brooklyn Lutherie,Lutherie,brooklynlutherie.com,brooklynlutherie.com\nChris Thile,APM | Live From Here,Music Production,livefromhere.org,livefromhere.org\nChrista Jagnanan,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nChristian Marclay,Marclay Studio,Archives,paulacoopergallery.comartistsCM,paulacoopergallery.comartistsCM\nChristine Gaspar,Center for Urban Pedagogy,Urban Policy Education,welcometocup.org,welcometocup.org\nChristine Hiebert,Hiebert-Sher Studio,Painting,christinehiebert.com,christinehiebert.com\nChuck Kuan,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nCian Dinan,Archipelago Books,Book Publishing,archipelagobooks.org,archipelagobooks.org\nCindy Yiin,McMahon-Baek,Architecture + Industrial Design,mcmahon-baek.com,mcmahon-baek.com\nClair Beltran,Center for Urban Pedagogy,Urban Policy Education,welcometocup.org,welcometocup.org\nClayton Dunwell,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nCody Evans,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nCorey Benson,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nCynthia Ruse,Byers-Ruse Studio,Sculpture,cynthiaruseart.com,cynthiaruseart.com\nDan Marwit,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nDan Nuxoll,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\nDaniel Yedidovich,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nDavid Hellman,Hiroko Takeda Studio,Textile Design,hirokotakeda.com,hirokotakeda.com\nDavid McMahon,Florentine Films,Documentary Film,florentinefilms.com,florentinefilms.com\nDeanna Nairns,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\nDenise Millstein,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nDerek Kwok,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nDiana Cooper,Cooper Studio,Drawing + Constructions,dianacooper.net,dianacooper.net\nDonna Kolodesh,Workstead,Industrial Design + Architecture,workstead.com,workstead.com\nDouglas Cuomo,Cuomo Studio,Composition + Sound Design,douglasjcuomo.com,douglasjcuomo.com\nEleanna Anagnos,Anagnos-Vaks Studio,Painting + Sculpture,eleanna.com,eleanna.com\nElissa Levy,Levy Studio,Installation,elissalevy.com,elissalevy.com\nEllen Berkenblit,Berkenblit Studio,Painting,ellenberkenblit.com,ellenberkenblit.com\nEllen Driscoll,Driscoll Studio,Painting,ellendriscoll.net,ellendriscoll.net\nElly Castle,Lite Brite Neon,Neon Sculpture Fabrication,litebriteneon.com,litebriteneon.com\nEmily Bang,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nEmily Berger,Berger Studio,Painting,emilyberger.net,emilyberger.net\nEmily Branham,Adventure Pants,Film + Video Production,emilyb.tv,emilyb.tv\nEmma Francis-Snyder,Market Road Films,Documentary Film,marketroadfilms.com,marketroadfilms.com\nEmma Natanzon,Lynn Goodman Porcelain,Ceramics,lynngoodmanporcelain.com,lynngoodmanporcelain.com\nEmma Raddatz,Archipelago Books,Book Publishing,archipelagobooks.org,archipelagobooks.org\nEric Hibit,Anagnos-Vaks Studio,Painting,erichibit.com,erichibit.com\nEric Muench,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nEric Yang,Cycle Architecture & Planning,Architecture + Planning,cycle-a.com,cycle-a.com\nErica Wessmann,McCarty Studio,Drawing + Painting,ericawessmann.com,ericawessmann.com\nErika Diamond,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nErin Jones,Lite Brite Neon,Neon Sculpture Fabrication,litebriteneon.com,litebriteneon.com\nEsther Podemski,Manter Studio,Painting,estherpodemski.com,estherpodemski.com\nEva Wang,Hiroko Takeda Studio,Textile Design,hirokotakeda.com,hirokotakeda.com\nEvan Bellantone,Jungle Press,Printmaking + Publishing,junglepress.com,junglepress.com\nFielding Hong,Center for Urban Pedagogy,Urban Policy Education,welcometocup.org,welcometocup.org\nFrampton Tolbert,Center for Urban Pedagogy,Urban Policy Education,welcometocup.org,welcometocup.org\nFrancis Jimenez-Kloeckl,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nFrederick Tang,Frederick Tang Architecture,Architecture,fredericktang.com,fredericktang.com\nGabrielle Gatto,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\nGalina Kurlat,Kurlat-Good Studio,Photography,galinakurlat.com,galinakurlat.com\nGary Hustwit,Film First,Documentary Film,filmfirst.com,filmfirst.com\nGenevieve DeLaurier,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\nGenie Ilmenev ,Jungle Press,Printmaking + Publishing,junglepress.com,junglepress.com\nGeoff Matters,Share ,Multimedia Collective,\"vimeo.comgeoffmatters\nshare.djshare\",\"vimeo.comgeoffmatters\nshare.djshare\"\nGlen Duncan,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nGlenn Ligon,Ligon Studio,Painting + Sculpture,glennligonstudio.com,glennligonstudio.com\nGrant Engle,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nGregory Casparian,Wingspace Mentee,Theater Design,wingspace.com,wingspace.com\nHabby Osk (Temp),Cycle Architecture & Planning,Architecture + Planning,cycle-a.com,cycle-a.com\nHaley Crone,Workstead,Industrial Design + Architecture,workstead.com,workstead.com\nHannah Pifer,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nHannah Tinti,One Story,Book Publishing,one-story.com,one-story.com\nHiroko Gildea,Hiroko Takeda Studio,Textile Design,hirokotakeda.com,hirokotakeda.com\nHiroko Takeda,Hiroko Takeda Studio,Textile Design,hirokotakeda.com,hirokotakeda.com\nHouston King,Elsewhere Films,Documentary Film,elsewherefilms.org,elsewherefilms.org\nHugo Monsivais,Maptote,Design + Silkscreening,maptote.com,maptote.com\nIan Smith-Foy,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nIbrahim Ahmad,Akashic Books,Publishing,akashicbooks.com,akashicbooks.com\nIona Kleinhaut,Kleinhaut Studio,Painting,ionakleinhaut.com,ionakleinhaut.com\nIsabel Sepulveda,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nIsabell dela Rosa,Market Road Films,Documentary Film,marketroadfilms.com,marketroadfilms.com\nItamar Yunger,Sound Better,Music Collaboration Platform ,soundbetter.com,soundbetter.com\nJames Mercer,Cooper Studio,Drawing + Constructions,dianacooper.net,dianacooper.net\nJamie Chiang,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nJanny Baek,McMahon-Baek,Architecture + Industrial Design,mcmahon-baek.com,mcmahon-baek.com\nJason LaFarge,Siezures Palace,Music Recording,discogs.comartist515129-Jason-LaFarge,discogs.comartist515129-Jason-LaFarge\nJason Tomme,Gallace Studio,Painting,303gallery.comartistsmaureen-gallace,303gallery.comartistsmaureen-gallace\nJeff Peterson,Swayspace,Graphic Design + Letterpress,swayspace.com,swayspace.com\nJeffy Hnilika ,APM | Live From Here,Music Production,livefromhere.org,livefromhere.org\nJenny Marshall,Jenny Marshall Ceramics,Ceramics,,\nJessica Edwards,Film First,Documentary Film,filmfirst.com,filmfirst.com\nJia Sung,Driscoll Studio,Painting,ellendriscoll.net,ellendriscoll.net\nJill Schoolman,Archipelago Books,Book Publishing,archipelagobooks.org,archipelagobooks.org\nJoey Stein,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nJohn Xia,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nJohnny Temple,Akashic Books,Publishing,akashicbooks.com,akashicbooks.com\nJon Whitaker,Workstead,Industrial Design + Architecture,workstead.com,workstead.com\nJonah Gold,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nJonah Groeneboer,Ligon Studio,Painting + Sculpture,glennligonstudio.com,glennligonstudio.com\nJordin Isip,Isip Studio,Drawing + Illustration,jordinisip.com,jordinisip.com\nJosh Fisher,Wingspace,Theater Design,joshfisherdp.com,joshfisherdp.com\nJoshua Masson,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nJulia Jacob,Workstead,Industrial Design + Architecture,workstead.com,workstead.com\nJulian Kreimer,Kreimer-Long Studio,Painting,juliankreimer.com,juliankreimer.com\nJulianne Ahn,Object & Totem,Ceramics,objectandtotem.com,objectandtotem.com\nJun Ko,Kim Studio,Painting,jamescohan.comartistsbyron-kim,jamescohan.comartistsbyron-kim\nJungeun Kim,Kim Studio,Ceramics,jungeunkim.com,jungeunkim.com\nJustin Birmingham,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nJustine Cooper,Cooper Studio,Video + Photography,justinecooper.com,justinecooper.com\nKaitlin Rhodes,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nKara Kramer,Kramer-Shipley Studio,Mixed Media,karakramer.com,karakramer.com\nKaren Chan,Chan Studio,Film + Video Production,karenychan.com,karenychan.com\nKari Cholnoky,Berkenblit Studio,Painting,ellenberkenblit.com,ellenberkenblit.com\nKate Gellene,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\nKate Wolkoff,Hilger-Wolkoff Studio,Photography,katherinewolkoff.com,katherinewolkoff.com\nKatherine Bogden,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nKatie Ray,Restless Books,Publishing,restlessbooks.com,restlessbooks.com\nKayla Sklar,Film First,Documentary Film,filmfirst.com,filmfirst.com\nKeiko Uenishi,Share,Multimedia Collective,soundleak.org,soundleak.org\nKelley Rand,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\nKelley Rand,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\nKelsey Egan,Maptote,Design + Silkscreening,maptote.com,maptote.com\nKensuke Sato,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nKevin Downs,Ligon Studio,Painting + Sculpture,kevinfrancisgray.com,kevinfrancisgray.com\nKevin Mercado,Akashic Books,Publishing,akashicbooks.com,akashicbooks.com\nKevser Kesici,Modern Porcelain,Porcelain Tableware,loisaronow.com,loisaronow.com\nKristin Eugenio,Frederick Tang Architecture,Architecture,fredericktang.com,fredericktang.com\nKyra Simone,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nLacey Laborde,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nLaura Collelouri,Market Road Films,Documentary Film,marketroadfilms.com,marketroadfilms.com\nLaura Schlifer,Radnor Designs ,Design Objects Purveyor,radnor.co,radnor.co\nLaura Seidman,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nLavinia Nannini,Cycle Architecture & Planning,Architecture + Planning,cycle-a.com,cycle-a.com\n\"Lawson, Deana\",Lawson Studio,Photography,deanalawson.com,deanalawson.com\nLee Norton ,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nLee Savage,Wingspace,Theater Design,wingspace.com,wingspace.com\nLeigh Taylor,Center for Urban Pedagogy,Urban Policy Education,welcometocup.org,welcometocup.org\nLianne Arnold,Wingspace,Theater Design,wingspace.com,wingspace.com\nLisa John Rogers,Market Road Films,Documentary Film,marketroadfilms.com,marketroadfilms.com\nLiz Schweitzer,Wingspace Mentee,Theater Design,wingspace.com,wingspace.com\nLiz Shaw,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nLois Aronow,Modern Porcelain,Porcelain Tableware,loisaronow.com,loisaronow.com\nLucy MacKinnon,Wingspace,Theater Design,wingspace.com,wingspace.com\nLuisa Sartori,Sartori Studio,Visual Art,luisasartori.com,luisasartori.com\nLukasz Antkiewicz,Share,Multimedia Collective,lantkiewicz.com,lantkiewicz.com\nLynn Goodman,Lynn Goodman Porcelain,Ceramics,lynngoodmanporcelain.com,lynngoodmanporcelain.com\nLynn Nottage,Lynn Nottage Studio,PlaywrightPoet,lynnnottage.com,lynnnottage.com\nMadeline Sell,Maptote,Design + Silkscreening,maptote.com,maptote.com\nMaggie Ruder,Wingspace,Theater Design,wingspace.com,wingspace.com\nMamie Minch,Brooklyn Lutherie,Lutherie,brooklynlutherie.com,brooklynlutherie.com\nMargaret Montagna,Wingspace Mentee,Theater Design,wingspace.com,wingspace.com\nMarget Long,Kreimer-Long Studio,Painting,margetlong.com,margetlong.com\nMaria Rhodes,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\nMaribeth Batcha,One Story,Book Publishing,one-story.com,one-story.com\nMark Torrey,Center for Urban Pedagogy,Urban Policy Education,welcometocup.org,welcometocup.org\nMarlene McCarty,McCarty Studio,Drawing + Painting,sikkemajenkinsco.commarlene-mccarty,sikkemajenkinsco.commarlene-mccarty\nMartin Bisi,Bisi Recording,Music Recording,martinbisi.com,martinbisi.com\nMary Rubi,Wingspace Mentee,Theater Design,wingspace.com,wingspace.com\nMary Younkin,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nMathanki Kalapathy,Frederick Tang Architecture,Architecture,fredericktang.com,fredericktang.com\nMatt Dilling,Lite Brite Neon,Neon Sculpture Fabrication,litebriteneon.com,litebriteneon.com\nMatt Johnson,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nMatvei Yankelevich,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nMaureen Gallace,Gallace Studio,Painting,303gallery.comartistsmaureen-gallace,303gallery.comartistsmaureen-gallace\nMay Herskovitz,Lite Brite Neon,Neon Sculpture Fabrication,litebriteneon.com,litebriteneon.com\nMegan Velong ,APM | Live From Here,Music Production,livefromhere.org,livefromhere.org\nMegha Mattoo,Mattoo Studio,Painting,meghamattoo.wordpress.com,meghamattoo.wordpress.com\nMelinda Caric,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nMelissa Braxton,Frederick Tang Architecture,Architecture,fredericktang.com,fredericktang.com\nMeredith Ries,Wingspace,Theater Design,wingspace.com,wingspace.com\nMichael Berick ,Maptote,Design + Silkscreening,maptote.com,maptote.com\nMichael Cooper,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nMichelle Hinebrook,Hinebrook-Wagner Studio ,Painting,michellehinebrook.com,michellehinebrook.com\nMichelle Wen,Katleman Studio,Sculpture + Installation,bethkatleman.com,bethkatleman.com\nMichiko Sakano,Sakano Glass,Glass Art,michikosakano.com,michikosakano.com\nMike Cockrill,Cockrill Studio,Painting,mikecockrill.com,mikecockrill.com\nMike DeBenedittis,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nMiranda Haymon,Wingspace Mentee,Theater Design,wingspace.com,wingspace.com\nMiriam Carothers,Carothers Studio,Drawing + Illustration,miriamcarothers.com,miriamcarothers.com\nMohammed Rahman,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nMolly Lenore ,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nMolly Orlovich,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nNadine Lynch,Workstead,Industrial Design + Architecture,workstead.com,workstead.com\nNancy Manter,Manter Studio,Painting,mdi-landescapes.com,mdi-landescapes.com\nNathan Rostron,Restless Books,Publishing,restlessbooks.com,restlessbooks.com\nNeil Shea,Market Road Films,Documentary Film,marketroadfilms.com,marketroadfilms.com\nNicholas Fuenzalida,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nNick Doty,Gallace Studio,Painting,303gallery.comartistsmaureen-gallace,303gallery.comartistsmaureen-gallace\nNicola Ginzel,Ginzel Studio,Mixed Media,nicolaginzel.com,nicolaginzel.com\nOskar Russakis,Lite Brite Neon,Neon Sculpture Fabrication,litebriteneon.com,litebriteneon.com\nPaige Parsons,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nPanayiotis Terzis,Guo + Terzis Studio,Painting + Drawing,panterzis.com ,panterzis.com \nPatrick Fenton,Swayspace,Graphic Design + Letterpress,swayspace.com,swayspace.com\nPatrick Ryan,One Story,Book Publishing,one-story.com,one-story.com\nPaula-Kaye Richards,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nPeter Endriss,Runner & Stone,Food Production,runnerandstone.com,runnerandstone.com\nPetra Romano,Cooper Studio,Video + Photography,justinecooper.com,justinecooper.com\nRachael Wilson,Restless Books,Publishing,restlessbooks.com,restlessbooks.com\nRachel Berick,Maptote,Design + Silkscreening,maptote.com,maptote.com\nRachel Winard,Soapwalla,Organic Body Products,soapwallakitchen.com,soapwallakitchen.com\nRauiri O'Loughlin,Market Road Films,Documentary Film,marketroadfilms.com,marketroadfilms.com\nRebecca Davis,Davis Studio,Feldenkrais,rdavisprojects.com,rdavisprojects.com\nRebekah Smith,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nRobert Highsmith,Workstead,Industrial Design + Architecture,workstead.com,workstead.com\nRobin Lowe,Lowe Studio,Painting,robinlowe.net,robinlowe.net\nRoddy Louie,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nRoger Westerman,Westerman Design,Exhibition Design,westermandesign.com,westermandesign.com\nRomy Achituv,Achituv Studio,Sculpture,gavaligai.com,gavaligai.com\nRory Sawyer,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nRyan Mahoney,Workstead,Industrial Design + Architecture,workstead.com,workstead.com\nSabrina Kissack,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\nSam Schanwald,Wingspace Mentee,Theater Design,wingspace.com,wingspace.com\nSamali Bikangaga,Florentine Films,Documentary Film,florentinefilms.com,florentinefilms.com\nSarah Burns,Florentine Films,Documentary Film,florentinefilms.com,florentinefilms.com\nSarah Lawson,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nSavern Davies,Elsewhere Films,Documentary Film,elsewherefilms.org,elsewherefilms.org\nSchuyler Klein,Cycle Architecture & Planning,Architecture + Planning,cycle-a.com,cycle-a.com\nScott Bolman,Wingspace,Theater Design,wingspace.com,wingspace.com\nSeiya Kobayashi,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nSelena Kimball,Kimball Studio,Collage + Installation,selenakimball.com,selenakimball.com\nSeth Frader-Thompson,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nSeth Price,Price Archives,Archives,sethpriceimages.com,sethpriceimages.com\nShachar Gilad,Sound Better,Music Collaboration Platform ,soundbetter.com,soundbetter.com\nShai Gilad,Sound Better,Music Collaboration Platform ,soundbetter.com,soundbetter.com\nSilvina Lopez Medin,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\nSiyona Ravi,Center for Urban Pedagogy,Urban Policy Education,welcometocup.org,welcometocup.org\nSonita Singwi,Singwi Studio,Painting,sonitasingwi.com,sonitasingwi.com\nStacey Flannery,Soapwalla,Organic Body Products,soapwallakitchen.com,soapwallakitchen.com\nStefanie Brechbuehler,Workstead,Industrial Design + Architecture,workstead.com,workstead.com\nStephanie Jenkins,Florentine Films,Documentary Film,florentinefilms.com,florentinefilms.com\nStephanie Rebonati,Rebonati Studio,Cultural Journalism + Editing,stephanierebonati.com,stephanierebonati.com\nStephanie Snider,Snider Studio,Aculpture + Installation,stephaniesnider.com,stephaniesnider.com\nStephen Hilger,Hilger-Wolkoff Studio,Photography,ambassadorarchive.net,ambassadorarchive.net\nSteven Harris,Kleinhaut Studio,Painting,ionakleinhaut.com,ionakleinhaut.com\nSulaiman Ahmad,Restless Books,Publishing,restlessbooks.com,restlessbooks.com\nSusan Clark,Radnor Designs ,Design Objects Purveyor,radnor.co,radnor.co\nSusan Handwerker,Handwerker Studio,Ceramics,susanhandwerker.com,susanhandwerker.com\nSusan Leopold,Leopold Studio,Sculpture + Installation,susanleopoldnyc.com,susanleopoldnyc.com\nSusan Mastrangelo,Mastrangelo Studio,Painting,susanmastrangelo.com,susanmastrangelo.com\nSusan Stainman,Stainman Studio,Sculpture + Installation,susanstainman.com,susanstainman.com\nSusannah A Lawrence,Akashic Books,Publishing,akashicbooks.com,akashicbooks.com\nSuvi Karjaleinen,Segal Studio,Painting + Drawing,suvikarjalainen.com,suvikarjalainen.com\nSuzanne Bocanegra,Bocanegra Studio,Installation,suzannebocanegra.com,suzannebocanegra.com\nSuzette Matos-Montaner,Workstead,Industrial Design + Architecture,workstead.com,workstead.com\nSydney King,Lawson Studio,Photography,deanalawson.com,deanalawson.com\nTamar Lopez,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\nTanja Konwinski,Konwinski Creative,Drawing,tanjakonwinski.com,tanjakonwinski.com\nTaylor Hom,Market Road Films,Documentary Film,marketroadfilms.com,marketroadfilms.com\nTherese Grossmeyer,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nThomas McMahon,McMahon-Baek,Architecture + Industrial Design,mcmahon-baek.com,mcmahon-baek.com\nTia Lessin,Elsewhere Films,Documentary Film,elsewherefilms.org,elsewherefilms.org\nTim Brennan,Frederick Tang Architecture,Architecture,fredericktang.com,fredericktang.com\nTim McAleer,Florentine Films,Documentary Film,florentinefilms.com,florentinefilms.com\nTom Uhr,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nTony Daniels,Cycle Architecture & Planning,Architecture + Planning,cycle-a.com,cycle-a.com\nTony Gerber,Market Road Films,Documentary Film,marketroadfilms.com,marketroadfilms.com\nTravis Waxman,Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nTzirel Kaminetzky,Leopold Studio,Painting,tzirel.com,tzirel.com\nUlrika Stromback,Stromback Studio,Sculpture + Installation,ulrikastromback.com,ulrikastromback.com\nVarun Mehra,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nVicki Sher,Hiebert-Sher Studio,Art production,vickisher.com,vickisher.com\nVirginia Wagner,Hinebrook-Wagner Studio ,Painting,studiovirginia.com,studiovirginia.com\nWill Cybriwsky,EnergyHub ,Energy Management Systems,energyhub.net,energyhub.net\nWill Hutnick,Ortega y Gasset Projects,Gallery,oygprojects.com,oygprojects.com\nWilly Schwenzfeier,Swayspace,Graphic Design + Letterpress,swayspace.com,swayspace.com\nYasmin Safdie,Center for Urban Pedagogy,Urban Policy Education,welcometocup.org,welcometocup.org\nYiran Guo,Guo + Terzis Studio,Illustration + Drawing,website: yiranguoart.com,website: yiranguoart.com\nYoon Choi,Kim Studio,Painting,jamescohan.comartistsbyron-kim,jamescohan.comartistsbyron-kim\nZahar Vaks,Anagnos-Vaks Studio,Painting,zaharvaks.com,zaharvaks.com\nZoe Guttenplan,Ugly Duckling Presse,Publishing + Printing,uglyducklingpresse.org,uglyducklingpresse.org\n,,,,\nAda Gniazdowska,Gilad Worldwide,Web Development,adagilad.com,adagilad.com\nMike Campbell,XØ Projects ,Planning + Architecture,xoprojects.com,xoprojects.com\nBrian Quan,XØ Projects ,Planning + Architecture,xoprojects.com,xoprojects.com\nCassandra Weston,XØ Projects ,Planning + Architecture,xoprojects.com,xoprojects.com\nMaxwell Smith,XØ Projects ,Planning + Architecture,xoprojects.com,xoprojects.com\nNathan Elbogen,XØ Projects ,Planning + Architecture,xoprojects.com,xoprojects.com\n,,,,\nVacant,,,,\nVerizon Wireless,Verizon Wireless,Mechanical,,\nLMS Shop,LMS Realty Associates,Storage,,\nJo Andres,Andres Studio,Visual Art,,\nLaurie Berg,Andres Studio,Visual Art,,\nIona Kleinhaut (See A210),,,,\nWingspace Main,Wingspace,Theater Design,wingspace.com,wingspace.com\nDining Room,,,,\nKNISH?,,,,\n,Sakano Glass,Glass Art,michikosakano.com,michikosakano.com\nMoey (see E302),,,,\nBrian Quan,,Storage,,\nStorage,(Rooftop Films E106),Storage,,\nStorage,(Rooftop Films E106),Storage,,\nStorage,(Rooftop Films E106),Storage,,\nStorage,LMS Realty Associates,Storage,,\n,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\n,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\n,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\n,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\n,Rooftop Films,Film Festival,rooftopfilms.com,rooftopfilms.com\nStorage,,Storage,,\nSwayspace E103,Storage,Storage,,\nTasja Keetman ,,Storage,tasjakeetman.com,tasjakeetman.com\nBen Rahn: Storage,Rahn Photography,Storage,,\nGlen Ligon,See E205,Painting,glennligonstudio.com,glennligonstudio.com\nByron Kim E203,Byron Kim E204,Storage,,\nVacant,,Storage,,\nJeffrey Birnbaum,Jeffrey Birnbaum Archives,Music,,\nStorage,XOP,Storage,,\nGlen Ligon: Storage,Glenn Ligon E205,Storage,,\nStudio,Nathan Elbogen,,xoprojects.com,xoprojects.com\nMoey (see E301),Moey ,Exhibition Design + Fabrication,moeyinc.com,moeyinc.com\nRebekah Otis,,Painting + Illustration,,\nStorage,LMS Realty Associates,Planning + Architecture,,"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "txtEncoding",
+      "elementPos": 2,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "url",
+      "type": "text",
+      "id": "url",
+      "elementPos": 3,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "chkHeader",
+      "type": "checkbox",
+      "id": "chkHeader",
+      "elementPos": 8,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "txtRowLimit",
+      "elementPos": 9,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "txtSkipLimit",
+      "elementPos": 10,
+      "checked": false,
+      "namePos": 0,
+      "value": "0"
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepAuto",
+      "elementPos": 11,
+      "checked": true,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepComma",
+      "elementPos": 12,
+      "checked": false,
+      "namePos": 1,
+      "value": ","
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepSemicolon",
+      "elementPos": 13,
+      "checked": false,
+      "namePos": 2,
+      "value": ";"
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepColon",
+      "elementPos": 14,
+      "checked": false,
+      "namePos": 3,
+      "value": ":"
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepPipe",
+      "elementPos": 15,
+      "checked": false,
+      "namePos": 4,
+      "value": "|"
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepTab",
+      "elementPos": 16,
+      "checked": false,
+      "namePos": 5,
+      "value": "\\t"
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepCaret",
+      "elementPos": 17,
+      "checked": false,
+      "namePos": 6,
+      "value": "^"
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepSpace",
+      "elementPos": 18,
+      "checked": false,
+      "namePos": 7,
+      "value": " "
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkReplaceAccents",
+      "elementPos": 19,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkIgnoreDoubleQuote",
+      "elementPos": 20,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkInputQuote",
+      "elementPos": 21,
+      "checked": false,
+      "namePos": 0,
+      "value": "'"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkDecodeLiterals",
+      "elementPos": 22,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "txtCols",
+      "elementPos": 24,
+      "checked": false,
+      "namePos": 0,
+      "value": "1,2,3,4,5"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkIgnoreCase",
+      "elementPos": 26,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortFld1",
+      "elementPos": 27,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortType1",
+      "elementPos": 28,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortAsc1",
+      "elementPos": 29,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortFld2",
+      "elementPos": 30,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortType2",
+      "elementPos": 31,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortAsc2",
+      "elementPos": 32,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortFld3",
+      "elementPos": 33,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortType3",
+      "elementPos": 34,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortAsc3",
+      "elementPos": 35,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 36,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 37,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 38,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 39,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 40,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 41,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 42,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 43,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftriml1",
+      "elementPos": 44,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftrimr1",
+      "elementPos": 45,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkupper1",
+      "elementPos": 46,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chklower1",
+      "elementPos": 47,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkProper1",
+      "elementPos": 48,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkpunct1",
+      "elementPos": 49,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkcrunch1",
+      "elementPos": 50,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chknull1",
+      "elementPos": 51,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fdecimals1",
+      "elementPos": 52,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftriml2",
+      "elementPos": 53,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftrimr2",
+      "elementPos": 54,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkupper2",
+      "elementPos": 55,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chklower2",
+      "elementPos": 56,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkProper2",
+      "elementPos": 57,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkpunct2",
+      "elementPos": 58,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkcrunch2",
+      "elementPos": 59,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chknull2",
+      "elementPos": 60,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fdecimals2",
+      "elementPos": 61,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftriml3",
+      "elementPos": 62,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftrimr3",
+      "elementPos": 63,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkupper3",
+      "elementPos": 64,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chklower3",
+      "elementPos": 65,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkProper3",
+      "elementPos": 66,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkpunct3",
+      "elementPos": 67,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkcrunch3",
+      "elementPos": 68,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chknull3",
+      "elementPos": 69,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fdecimals3",
+      "elementPos": 70,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftriml4",
+      "elementPos": 71,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftrimr4",
+      "elementPos": 72,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkupper4",
+      "elementPos": 73,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chklower4",
+      "elementPos": 74,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkProper4",
+      "elementPos": 75,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkpunct4",
+      "elementPos": 76,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkcrunch4",
+      "elementPos": 77,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chknull4",
+      "elementPos": 78,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fdecimals4",
+      "elementPos": 79,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftriml5",
+      "elementPos": 80,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftrimr5",
+      "elementPos": 81,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkupper5",
+      "elementPos": 82,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chklower5",
+      "elementPos": 83,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkProper5",
+      "elementPos": 84,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkpunct5",
+      "elementPos": 85,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkcrunch5",
+      "elementPos": 86,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chknull5",
+      "elementPos": 87,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fdecimals5",
+      "elementPos": 88,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkCsvQuotes",
+      "elementPos": 89,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "txtKeyNum",
+      "elementPos": 90,
+      "checked": false,
+      "namePos": 0,
+      "value": "1"
+   },
+   {
+      "form": 0,
+      "name": "chkFldData",
+      "type": "checkbox",
+      "id": "chkFldData",
+      "elementPos": 91,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "txtFieldName",
+      "elementPos": 92,
+      "checked": false,
+      "namePos": 0,
+      "value": "fields"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "txtDataName",
+      "elementPos": 93,
+      "checked": false,
+      "namePos": 0,
+      "value": "data"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkOverwrite",
+      "elementPos": 94,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "chkNullJson",
+      "type": "checkbox",
+      "id": "chkNullJson",
+      "elementPos": 95,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "chkSkipEmpty",
+      "type": "checkbox",
+      "id": "chkSkipEmpty",
+      "elementPos": 96,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "chkTryToObject",
+      "type": "checkbox",
+      "id": "chkTryToObject",
+      "elementPos": 97,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "chkLineMode",
+      "type": "checkbox",
+      "id": "chkLineMode",
+      "elementPos": 98,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "chkMongoDbMode",
+      "type": "checkbox",
+      "id": "chkMongoDbMode",
+      "elementPos": 99,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "chkAutoNum",
+      "type": "checkbox",
+      "id": "chkAutoNum",
+      "elementPos": 100,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "txtHeader",
+      "elementPos": 102,
+      "checked": false,
+      "namePos": 0,
+      "value": "[{br}"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "textarea",
+      "id": "txtTemplate",
+      "elementPos": 103,
+      "namePos": 0,
+      "value": "  {lb}\n     \"{h1}\":\"{f1}\"\n    ,\"{h2}\":\"{f2}\"\n    ,\"{h3}\":\"{f3}\"\n    ,\"{h4}\":\"{f4}\"\n    ,\"{h5}\":\"{f5}\"\n  {rb}"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "txtFooter",
+      "elementPos": 104,
+      "checked": false,
+      "namePos": 0,
+      "value": "]"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fn",
+      "elementPos": 111,
+      "checked": false,
+      "namePos": 0,
+      "value": "convertcsv"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "eol",
+      "elementPos": 113,
+      "namePos": 0,
+      "value": ""
+   }
+]

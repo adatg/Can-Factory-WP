@@ -30,6 +30,7 @@
   <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.14.2/dist/bootstrap-table.min.css">
   <!-- CUSTOM -->
   <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/assets/stylesheet/mainstyle.css">
+  <link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/assets/stylesheet/wp.css">
     
 	<?php wp_head(); ?>
 </head>
