@@ -1,5 +1,34 @@
 @import "variables";
+// MENu STYLING
+.header {
+  .menu-wrapper { 
+    .menu {
+      ul {
+        li {
+          &.current_page_item {
+            a {
+              color: $primary-color;
+            }
+          }
+          &:after {
+            content: ':';
+            margin-left: 3px;
+          }
+          &:last-child:after {
+            content: '';
+          }
+          &:first-of-type {
+            a {
+              margin-left: 0;
+            }
+          }
+        }
+      }
+    }
+  }
+}
 
+// HOME PAGE = PROFILE PAGE
 .page-template-tmpl-hp {
   .header {
     &.sticky {
@@ -12,7 +41,9 @@
     }
   }
 }
-.page-template-tmpl-contact{
+
+// CONTACT PAGE 
+.page-template-tmpl-contact {
   p {
     font-weight: $light-font;
     margin-bottom: 0.1em;
@@ -44,5 +75,12 @@
         }
       }
     }
+  }
+}
+
+// PEOPLE PAGE
+.page-template-tmpl_people {
+  .container_custom {
+    width: 47.424em;
   }
 }

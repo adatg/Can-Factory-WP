@@ -1,3 +1,13 @@
+.header .menu-wrapper .menu ul li.current_page_item a {
+  color: #ff7a33; }
+.header .menu-wrapper .menu ul li:after {
+  content: ':';
+  margin-left: 3px; }
+.header .menu-wrapper .menu ul li:last-child:after {
+  content: ''; }
+.header .menu-wrapper .menu ul li:first-of-type a {
+  margin-left: 0; }
+
 .page-template-tmpl-hp .header.sticky {
   position: initial; }
 .page-template-tmpl-hp .container_custom.padding {
@@ -17,5 +27,8 @@
 .page-template-tmpl-contact li:last-of-type a img {
   width: 5%;
   margin-right: 0; }
+
+.page-template-tmpl_people .container_custom {
+  width: 47.424em; }
 
 /*# sourceMappingURL=wp.css.map */
