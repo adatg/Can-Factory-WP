@@ -1,12 +1,12 @@
 $(document).ready(function(){
   // STICKY MENU TRIGGER
   $("#waypoint-trigger").waypoint(function(direction){
-    if ($(document.body).attr("class") == "sticky_header") {
+    
       $('.header').toggleClass('sticky');
       $('.container_custom').toggleClass('padding');
       $('.menu-wrapper').toggleClass('aligned');
-    };
-  },{offset: '100px'}
+  
+  },{offset: '30%'}
   );
   
   // SCROLL TO 

@@ -8,9 +8,9 @@ get_header(); ?>
 
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 <ul class="directory">
-        <li><a target="_self" data-scroll-to="#factory" data-scroll-speed="700" data-scroll-offset="-100">At the Can
+        <li><a target="_self" data-scroll-to="#factory" data-scroll-speed="700" data-scroll-offset="-170">At the Can
             Factory</a></li>
-        <li><a target="_self" data-scroll-to="#offsite" data-scroll-speed="700" data-scroll-offset="-100">Tenants events
+        <li><a target="_self" data-scroll-to="#offsite" data-scroll-speed="700" data-scroll-offset="-170">Tenants events
             off site</a></li>
       </ul>
     </div>

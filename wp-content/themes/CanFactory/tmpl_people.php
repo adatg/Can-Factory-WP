@@ -8,9 +8,10 @@ get_header(); ?>
 
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 <ul class="directory">
-    <li><a target="_self" data-scroll-to="#tenants" data-scroll-speed="700" data-scroll-offset="-100">Current
+        <!-- <li><a href="https://thecanfactory.org/alumni/">Advisors</a></li> -->
+        <li><a target="_self" data-scroll-to="#tenants" data-scroll-speed="700" data-scroll-offset="-170">Current
         Tenants</a></li>
-    <li><a href="alumni.html">Alumni Tenants</a></li>
+        <!-- <li><a href="https://thecanfactory.org/alumni/">Alumni Tenants</a></li> -->
 </ul>
 </div>
 </div>

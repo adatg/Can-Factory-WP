@@ -76,6 +76,13 @@ td {
     margin-top: 3px;
     margin-left: -1em; }
 
+#contact p {
+  font-weight: 300;
+  margin-bottom: .1em;
+  margin-top: .1em; }
+#contact .container_custom a {
+  color: #ff7a33; }
+
 .section-general p:last-of-type {
   margin-bottom: 1rem; }
 
@@ -88,7 +95,7 @@ td {
   .section-access ul li:before,
   .section-driving ul li:before {
     content: "\25AA";
-    padding-right: 0.7em;
+    padding-right: .7em;
     margin-left: -1em; }
 
 .section-location ul li,
@@ -98,19 +105,40 @@ td {
 
 .section-transit ul li,
 .section-driving ul li {
-  margin-bottom: 0.5em;
+  margin-bottom: .5em;
   margin-top: 1em; }
 
 .section-address .bold-text {
-  margin-right: 0.1em; }
+  margin-right: .1em; }
 
 .section-transit a:hover {
   text-decoration: none; }
+.section-transit .transit-icon {
+  color: white;
+  font-weight: 500; }
+  .section-transit .transit-icon.subway-icon {
+    border-radius: 50%;
+    display: inline;
+    padding: 0 .3em;
+    font-size: .8em; }
+  .section-transit .transit-icon.bus-icon {
+    font-size: .85em;
+    padding: 0 .25em; }
 
 .section-access img {
   width: 5%;
-  margin-left: 0.1em;
+  margin-left: .1em;
   vertical-align: bottom; }
+
+.section-staff .people-wrapper {
+  margin-top: -.7em; }
+.section-staff .person-wrapper h3 {
+  margin-top: 1.5em;
+  font-weight: 400; }
+.section-staff .person-wrapper p {
+  font-weight: 500 !important; }
+  .section-staff .person-wrapper p a {
+    font-weight: 300; }
 
 .program-wrapper p {
   font-weight: 300;
@@ -232,7 +260,7 @@ ul {
   margin-left: 10.28em; }
 
 .container_custom.padding {
-  padding-top: 320px; }
+  margin-top: 235px; }
 
 .header {
   padding-left: 2.71em;
@@ -243,14 +271,16 @@ ul {
   width: 100%;
   top: 0;
   left: 0;
-  z-index: 1; }
+  right: 0;
+  z-index: 9999; }
   .header.sticky {
     box-shadow: 0px -6px 17px 0px #8080807d;
     position: fixed;
     margin: 0;
     display: flex;
     padding-top: 1.71em;
-    padding-left: 2.1em; }
+    padding-left: 2.1em;
+    transition: all 150ms ease-in-out; }
     .header.sticky img {
       width: 80%; }
     .header.sticky .menu-wrapper.aligned {
